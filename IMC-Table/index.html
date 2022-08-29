@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Modelo</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+
+  <section class="container">
+    <h1>Tabela IMC</h1>
+
+    <table>
+
+      <thead>
+        <tr>
+          <th>IMC</th>
+          <th>Resultado</th>
+        </tr>
+      </thead>
+      <tbody>
+
+          <tr>
+            <td>Menos que 18.5</td>
+            <td>Abaixo do peso</td>
+          </tr>
+
+          <tr>
+            <td>Menos que 18.5 a 24.9</td>
+            <td>Peso normal</td>
+          </tr>
+
+          <tr>
+            <td>Menos que 25 a  29.9</td>
+            <td>Sobrepeso</td>
+          </tr>
+
+          <tr>
+            <td>Menos que 30 a 34.9</td>
+            <td>Obesidade grau 1</td>
+          </tr>
+
+          <tr>
+            <td>Menos que 35 a 39.9</td>
+            <td>Obesidade grau 2</td>
+          </tr>
+
+          <tr>
+            <td>Mais do que 40</td>
+            <td>Obesidade grau 3</td>
+          </tr>
+      </tbody>
+
+    </table>
+
+    <h4>Calcule o seu imc</h4>
+    
+    <form class="formulario">
+      <label for="input-peso">Peso em quilos: </label>
+      <input type="text" id="input-peso">
+      
+      <label for="input-altura">Altura em metros:</label>
+      <input type="text" id="input-altura">
+
+      <button type="submit">Enviar</button>
+    </form>
+
+    <div class="resultado"></div>
+
+  </section>
+
+  <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
