@@ -1,17 +1,18 @@
-# Projeto: Temporizador
+# Projeto: Tabela IMC
 
 ## 📊 Objetivo
 
-Criar um temporizador utilizando Javascript, CSS, HTML. Contendo 3 botões e utilizando funções e manipulando DOM.
-<br>
-### Botão iniciar
-<img src="https://cdn.discordapp.com/attachments/1013866754398752831/1013866806546530314/unknown.png">
-<figure>Figura 1: Botão iniciar<figure>
+lOREM IPSUN
+
+
+### 
+<img src="">
+<figure>Figura 1: <figure>
   
  
- ### Botão pausar
-  <img src="https://cdn.discordapp.com/attachments/1013866754398752831/1013868017848954991/unknown.png">
-  <figure>Figura 2: Botão pausar<figure>
+ ### 
+  <img src="">
+  <figure>Figura 2: <figure>
 
   
 ## 🚀 Tecnologias 
