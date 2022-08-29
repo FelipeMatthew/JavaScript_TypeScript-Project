@@ -4,7 +4,7 @@
 
 ## 📊 Objetivo
 
-Projetos finalizados utilizando JavaScript. Projetos do iniciante até o avançado utilizando a linguagem e suas bibliotecas
+Projetos finalizados utilizando JavaScript. Projetos do iniciante até o avançado utilizando a linguagem e suas bibliotecas.
 
 
 
