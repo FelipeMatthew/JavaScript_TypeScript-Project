@@ -3,7 +3,8 @@
 ## 📊 Objetivo
 
 Criar um temporizador utilizando Javascript, CSS, HTML. Contendo 3 botões e utilizando funções e manipulando DOM.
-<br>
+
+## Imagens
 ### Botão iniciar
 <img src="https://cdn.discordapp.com/attachments/1013866754398752831/1013866806546530314/unknown.png">
 <figure>Figura 1: Botão iniciar<figure>
