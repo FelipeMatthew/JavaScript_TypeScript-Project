@@ -1,19 +1,21 @@
 # Projeto: Tabela IMC
 
+
+
 ## 📊 Objetivo
+Projeto desenvolvido visando funções em Javascript e manipulação do DOM para a criação de uma tabela que informa o IMC.
 
-lOREM IPSUN
+## Imagens 
+<figure>Figura 1: Interface principal <figure>
+<img src="https://cdn.discordapp.com/attachments/1013866754398752831/1014727709840126022/unknown.png">
 
-
-### 
-<img src="">
-<figure>Figura 1: <figure>
   
- 
- ### 
-  <img src="">
-  <figure>Figura 2: <figure>
-
+<figure>Figura 2: Resultado <figure>
+  <img src="https://cdn.discordapp.com/attachments/1013866754398752831/1014728006784270416/unknown.png">
+  
+  <figure>Figura 3: Dados inválidos <figure>
+  <img src="https://media.discordapp.net/attachments/1013866754398752831/1014728456115859548/unknown.png?width=407&height=499">
+  
   
 ## 🚀 Tecnologias 
 
